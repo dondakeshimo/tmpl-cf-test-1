@@ -1,2 +1,2 @@
-# teml-cf-test-1
+# tmpl-cf-test-2
 For testing tmpl-cf
