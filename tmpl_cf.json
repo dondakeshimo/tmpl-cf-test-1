@@ -7,7 +7,7 @@
       "template_file_path": "README.md",
       "follower_file_path": "README.md",
       "last_applied_commit": "commit-hash-1"
-    },
+    }
   ],
   "follower_branch_name": "main",
   "follower_commit_message": "[tmpl-cf] Update my files with latest template changes",
