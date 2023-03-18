@@ -6,7 +6,7 @@
       "template_repo_url": "https://github.com/dondakeshimo/tmpl-cf-test-2",
       "template_file_path": "README.md",
       "follower_file_path": "README.md",
-      "last_applied_commit": "commit-hash-1"
+      "last_applied_commit": "8e7f0755157514597283feea169fb35e2368b377"
     }
   ],
   "follower_branch_name": "tmpl-cf",
