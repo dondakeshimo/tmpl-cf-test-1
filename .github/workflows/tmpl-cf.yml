@@ -17,4 +17,4 @@ jobs:
       uses: actions/checkout@v2
 
     - name: Execute Template Update Action
-      uses: dondakeshimo/tmpl-cf@test
+      uses: dondakeshimo/tmpl-cf@main
