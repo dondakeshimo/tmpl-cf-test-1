@@ -10,4 +10,6 @@ aaa
 abc
 
 hhh
+
+aaa
 >>>>>>> template-repo/README.md.latest
