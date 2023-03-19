@@ -19,6 +19,3 @@ jobs:
 
     - name: Execute Template Update Action
       uses: dondakeshimo/tmpl-cf@test
-      with:
-        config-file: 'tmpl_cf.json'
-        access-token: ${{ secrets.GITHUB_TOKEN }}
