@@ -1,5 +1,3 @@
-<<<<<<< README.md
-=======
 # tmpl-cf-test-3
 For testing tmpl-cf
 
@@ -10,6 +8,3 @@ aaa
 abc
 
 hhh
-
-aaa
->>>>>>> template-repo/README.md.latest
