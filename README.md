@@ -9,4 +9,11 @@ abc
 
 hhh
 
+<<<<<<< README.md
 aaa
+=======
+ccc
+bbb
+
+aaa
+>>>>>>> template-repo/README.md.latest
