@@ -15,5 +15,5 @@ aaa
 ccc
 bbb
 
-aaa
+aaabb
 >>>>>>> template-repo/README.md.latest
