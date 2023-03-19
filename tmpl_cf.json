@@ -1,6 +1,4 @@
 {
-  "follower_org": "dondakeshimo",
-  "follower_repo_name": "tmpl-cf-test-1",
   "file_paths": [
     {
       "template_repo_url": "https://github.com/dondakeshimo/tmpl-cf-test-2",
@@ -10,6 +8,7 @@
     }
   ],
   "follower_branch_name": "tmpl-cf",
+  "base_branch_name": "main",
   "follower_commit_message": "[tmpl-cf] Update my files with latest template changes",
   "pr_title": "[tmpl-cf] Update my files with latest template changes",
   "pr_body": "This PR updates my files with the latest changes made in the templates."
