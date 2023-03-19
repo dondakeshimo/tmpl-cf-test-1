@@ -6,10 +6,5 @@ For testing tmpl-cf
 aaa
 
 abc
-<<<<<<< README.md
-=======
 
 hhh
-
-aaa
->>>>>>> template-repo/README.md.latest
