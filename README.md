@@ -1,6 +1,4 @@
-<<<<<<< README.md
-=======
-# tmpl-cf-test-3
+# tmpl-cf-test-1
 For testing tmpl-cf
 
 ## fugo
@@ -8,9 +6,10 @@ For testing tmpl-cf
 aaa
 
 abc
+<<<<<<< README.md
+=======
 
 hhh
 
 aaa
-
 >>>>>>> template-repo/README.md.latest
