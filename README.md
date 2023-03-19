@@ -1,10 +1,4 @@
 # tmpl-cf-test-2
 For testing tmpl-cf
 
-## fuge
-
-## hoge
-
-## fuga
-
-## piyo
+## fugo
